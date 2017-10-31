@@ -1,3 +1,6 @@
+server:
+  port: 28200
+
 eureka:
   client:
     serviceUrl:
