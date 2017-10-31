@@ -2,6 +2,8 @@ server:
   port: 28700
 
 eureka:
+  instance:
+    hostname: peer1
   client:
     serviceUrl:
       defaultZone: http://peer1:28100/eureka/
