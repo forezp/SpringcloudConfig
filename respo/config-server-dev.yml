@@ -2,3 +2,5 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://peer1:28100/eureka/
+      
+foo: eureka-server.foo
