@@ -1,11 +1,4 @@
-server:
-  port: 28700
-
-eureka:
-  instance:
-    hostname: peer1
-  client:
-    serviceUrl:
-      defaultZone: http://peer1:28100/eureka/
-      
-foo: eureka-server.foo
+server.port=28700
+eureka.instance.hostname=peer1
+eureka.client.serviceUrl.defaultZone=http://peer1:28100/eureka/
+foo=eureka-server.foo
