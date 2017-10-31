@@ -1,1 +1,10 @@
 foo: ureka-server.foo
+
+server:
+  port: 28700
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://peer1:28100/eureka/
+
