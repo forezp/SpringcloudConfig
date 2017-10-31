@@ -1,3 +1,4 @@
 foo: ureka-server.foo
-
+server:
+  port: 28700
 
