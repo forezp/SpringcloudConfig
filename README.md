@@ -8,7 +8,7 @@
     <p align="center">
         <img src="https://upload-images.jianshu.io/upload_images/2279594-450fdd10e2a671e6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="258" height="258"/>
         <br>
-        扫码关注有惊喜
+        扫码关注，回复以下关键字，获取资料！
     </p>
     <p align="center" style="margin-top: 15px; font-size: 11px;color: #cc0000;">
         <strong>（转载本站文章请注明作者和出处 <a href="https://www.fangzhipeng.com">方志朋的博客</a>）</strong>
